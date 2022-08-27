@@ -1,6 +1,6 @@
-package Java_Basics;
+package javaBasics;
 
-public class String_Manupilation
+public class StringManupilation
 {
     public static void main(String[] args)
     {

@@ -3,7 +3,7 @@
 
 /* ------------------------------------------------------------------------------------------------------------- */
 
-In the Java_Basics Package we have the following programs:
+In the javaBasics Package we have the following programs:
 DataTypes, Condition Statements and Operators
 
 DataTypes In Java

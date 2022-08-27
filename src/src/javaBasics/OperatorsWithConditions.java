@@ -1,8 +1,8 @@
-package Java_Basics;
+package javaBasics;
 
 import java.util.Scanner;
 
-public class Operators_With_Conditions
+public class OperatorsWithConditions
 {
     public static void main(String[] args) {
 

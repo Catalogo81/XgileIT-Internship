@@ -1,7 +1,6 @@
-package Java_Basics;
-import java.util.Arrays;
+package javaBasics;
 
-public class MultiDi_Arrays
+public class MultiDiArrays
 {
     public static void main(String[] args)
     {

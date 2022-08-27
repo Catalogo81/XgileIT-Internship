@@ -1,8 +1,8 @@
-package Java_Basics;
-
+package javaBasics;
+//cha
 import java.util.Scanner;
 
-public class Operants_With_Switch
+public class OperantsWithSwitch
 {
     public static void main(String[] args) {
 

@@ -1,8 +1,8 @@
-package Java_Basics;
+package javaBasics;
 
 import java.util.Scanner;
 
-public class Nested_If_Statements
+public class NestedIfStatements
 {
     public static void main(String[] args)
     {
