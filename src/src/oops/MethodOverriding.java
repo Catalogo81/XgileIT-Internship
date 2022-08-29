@@ -15,7 +15,7 @@ class Vehicle //parent
 {
     void run()
     {
-        System.out.println("Vehicle is running");
+        System.out.println("Vehicle is running.");
     }
 }
 
