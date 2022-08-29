@@ -35,11 +35,15 @@ Abstraction, Encapsulation, Inheritance and Polymorphism
 - An Object is a physical entity, and it has a state, e.g. height and size of a person. It's an instance of a class.
 - A Class is a logical entity, and has/is a type. It is a temple used for creation of objects.
 - The reason why it is called Object-Oriented Programming is that we deal with real-world objects that have a state
+- An Abstract class allows one to create functionality that subclasses can implement or override
+- An Interface only allows one to define functionality, not implement it
+- A Class can extend only one abstract class, while it can take multiple interfaces
 
 1. Abstraction (defines a class): Hiding complexity and showing the important things
     - removing any unnecessary information from an object and keeping relevant information only
     - making the class uniquely identified in the system between others
     - helps with garbage removal
+    - abstraction can be done using abstract classes or interface
 
 2. Encapsulation: A process of binding data (variables) and its behaviour (methods) in a single unit.
     - combination of Abstraction and Encapsulation we get a class.
