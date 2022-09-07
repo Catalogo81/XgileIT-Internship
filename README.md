@@ -49,7 +49,7 @@ Abstraction, Encapsulation, Inheritance and Polymorphism
     - combination of Abstraction and Encapsulation we get a class.
     - e.g. School bag, phone, ATM, TV, Car
 
-3. Inheritance (is-a): When a child class inherits properties and behaviours form its parent class
+3. Inheritance (is-a): When a child class inherits properties and behaviours from its parent class
     - parent class is also known as a superclass
     - child class is also known as a derived class
     - Bank Account that has a Business Bank Account and a Personal Bank Account is an example of Inheritance
@@ -63,5 +63,47 @@ Abstraction, Encapsulation, Inheritance and Polymorphism
     - there are two types of polymorphism; method overload and method override
     - method overload is when multiple methods have the same name in the same class, and all methods work differently
     - method override is when the child class has the same method as declared in the parent class
+
+/* ------------------------------------------------------------------------------------------------------------- */
+
+**Interface, Abstract Classes and Loops**
+
+In this Package we will be focusing on the differences between Interfaces and Abstract classes and how we use them.
+Including some Loop examples
+
+What is an Interface?
+Interface specifies the behaviour of a class by providing an abstract type.
+Interfaces are used to achieve abstraction. A java class can implement an interface
+
+We need Interfaces for
+Total Abstraction(hiding method implementation) - by storing only the method signatures and not method definition.
+Multiple Inheritance - inheriting multiple parent classes
+Loose Coupling - the dependency of one class to another
+A class can implement multiple interfaces.
+
+What is an Abstract Class?
+Abstract class allows one to create functionality that subclasses can implement or override
+A class can only extend one abstract class. A abstract class is like a template for other classes
+It holds common functionality for all classes that extend it.
+
+Why we use it
+Abstract class is a special class in Java, it can not be instantiated and that's why can not be used directly
+
+
+What is a Loop and Why we use it:
+
+**Java Naming Convention**
+
+Java follows CamelCase naming convention
+
+Examples: firstName, myColorAndTheme, getResults(), ArrayList, HashMap, setLength()
+
+            Starts With                Examples
+Class       Upper Case & Noun          String, Employee, Student, Rectangle, ArrayList
+Interface   Upper Case & Adjective     Runnable, OnClickListener, ActionListener
+Method      Lower Case & Verb          main(), print(), goAhead(), getResult()
+Variable    Lower Case                 name, id, firstName, employeeId, isAlive, length
+Package     All in Lower Case          java, util, sql
+Constants   All in Upper Case          MAX_VALUE, PI, COMPANY_NAME
 
 /* ------------------------------------------------------------------------------------------------------------- */
