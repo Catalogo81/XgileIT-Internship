@@ -39,4 +39,5 @@ public class Lion implements IAnimal{
     public void setAge(int age) {
         this.age = age;
     }
+
 }
