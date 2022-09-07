@@ -45,10 +45,11 @@ public class ExtendsVsImplementsExample {
         //still not sure about this implementation
         if(lionAge > tooOld)
         {
-            for(int i = 0; i >= tooOld; i++)
-            {
-                System.out.println("Animal is too old, enter new age: ");
-            }
+//            for(int i = 0; i >= tooOld; i++)
+//            {
+//                System.out.println("Animal is too old, enter new age: ");
+//            }
+            System.out.println("Animal is too old");
         }
         else
         {
