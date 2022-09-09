@@ -106,4 +106,5 @@ Variable    Lower Case                 name, id, firstName, employeeId, isAlive,
 Package     All in Lower Case          java, util, sql
 Constants   All in Upper Case          MAX_VALUE, PI, COMPANY_NAME
 
+Video link: https://drive.google.com/file/d/1EyKbH4xwk_pUNeihUMroE2t6lG1EEaJo/view?usp=sharing
 /* ------------------------------------------------------------------------------------------------------------- */
